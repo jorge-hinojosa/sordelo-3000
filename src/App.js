@@ -78,11 +78,11 @@ function App() {
         </div>
 
         <div style={{marginBottom: 15}}>
-          <iframe width="100%" height="350px" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1321510630&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true"></iframe><div style={{fontSize: '10px', color: '#cccccc', lineBreak: 'anywhere', wordBreak: 'normal', overflow: 'hidden', whiteSpace: 'nowrap',textOverflow: 'ellipsis', fontFamily: 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif', fontWeight: 100}}><a href="https://soundcloud.com/sordelo" title="SORDELO" target="_blank" style={{color: '#cccccc', textDecoration: 'none'}}>SORDELO</a> · <a href="https://soundcloud.com/sordelo/sets/lizard-brain" title="lizard brain" target="_blank" style={{color: '#cccccc', textDecoration: 'none'}}>lizard brain</a></div>
+          <iframe title="Sordelo Soundcloud" width="100%" height="350px" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1321510630&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true"></iframe><div style={{fontSize: '10px', color: '#cccccc', lineBreak: 'anywhere', wordBreak: 'normal', overflow: 'hidden', whiteSpace: 'nowrap',textOverflow: 'ellipsis', fontFamily: 'Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif', fontWeight: 100}}><a href="https://soundcloud.com/sordelo" title="SORDELO" target="_blank" rel="noopener noreferrer" style={{color: '#cccccc', textDecoration: 'none'}}>SORDELO</a> · <a href="https://soundcloud.com/sordelo/sets/lizard-brain" title="lizard brain" target="_blank" rel="noopener noreferrer" style={{color: '#cccccc', textDecoration: 'none'}}>lizard brain</a></div>
         </div>
 
         <div style={{marginBottom: 45}}>
-          <iframe src="https://open.spotify.com/embed/album/5Aou2tSQQjIASuoFEdo567" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+          <iframe title="Sordelo Spotify" src="https://open.spotify.com/embed/album/5Aou2tSQQjIASuoFEdo567" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
         </div>
       </div>
     </div>
