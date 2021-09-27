@@ -44,7 +44,7 @@ function App() {
           <h1>Bio</h1>
           <div>
             <p>
-              Musician, producer, and dj based in Dallas, TX. I've been at this shit for like 13 years. Let's make it happen.
+              DJ, musician, and producer based in Dallas, TX. I've been active in music for like 13 years. Let's make it happen.
             </p>
             <p>
               My favorite genres to spin and produce are house, latin, funk, and pop.
